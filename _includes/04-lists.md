@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+# A list of tacos I dream about:
+- Chicken tinga tacos
+- Fish tacos
+- Barbacoa tacos 
+- Street styled carnita tacos 
